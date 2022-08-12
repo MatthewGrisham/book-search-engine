@@ -50,7 +50,7 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 # Heroku
 
 
-(https://book-search-challenge-21-mern.herokuapp.com/)
+(https://git.heroku.com/book-search-engine12.git)
 
 
 # License
